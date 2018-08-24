@@ -1,0 +1,22 @@
+table, td, th {
+    border: 1px solid black;
+    border-top: none;
+    border-collapse: collapse;
+    color: black;
+}
+table {
+    
+    width: 100%;
+}
+
+th {
+    text-align: left;
+}
+/* body{
+    background-image: url(https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NmI3Mzc5YzRlZjA0NjVkZmI2MDE2NjYwMDgzYmYzYy5qcGc=.jpg);
+    height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+
+} */
